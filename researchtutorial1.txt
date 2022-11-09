@@ -1,0 +1,1 @@
+cd ~/path/to/f1research_python
